@@ -46,7 +46,7 @@ This project is highly experimental and under active development. You may encoun
 
 ## 🌈 Try It Out
 
-Visit the live demo: [DreamOS Demo](https://dream-os.vercel.app) *(coming soon)*
+Visit the live demo: [DreamOS Demo](https://dream-os-one.vercel.app/)
 
 ## 📝 License
 
