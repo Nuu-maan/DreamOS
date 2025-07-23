@@ -1,0 +1,11 @@
+{
+  "name": "dream-os",
+  "version": "1.0.0",
+  "description": "A surreal p5.js-based aesthetic operating system interface",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 
